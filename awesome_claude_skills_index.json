@@ -1,0 +1,414 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-21T00:00:00Z",
+  "source": "awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "skill_count": 45,
+  "skills": [
+    {
+      "name": "invoice-organizer",
+      "description": "Automatically organize, categorize, and extract data from invoices and receipts",
+      "category": "productivity",
+      "keywords": ["invoice", "receipt", "organize", "extract", "billing", "expense", "financial"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/invoice-organizer/SKILL.md"
+    },
+    {
+      "name": "file-organizer",
+      "description": "Intelligently organizes your files and folders across your computer",
+      "category": "productivity",
+      "keywords": ["file", "folder", "organize", "sort", "cleanup", "directory"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/file-organizer/SKILL.md"
+    },
+    {
+      "name": "git-pushing",
+      "description": "Automate git operations and repository interactions",
+      "category": "development",
+      "keywords": ["git", "push", "commit", "repository", "version", "control"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/git-pushing",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/git-pushing/SKILL.md"
+    },
+    {
+      "name": "review-implementing",
+      "description": "Evaluate code implementation plans and align with specs",
+      "category": "development",
+      "keywords": ["review", "code", "implementation", "spec", "evaluate"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/review-implementing",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/review-implementing/SKILL.md"
+    },
+    {
+      "name": "test-fixing",
+      "description": "Detect failing tests and propose patches or fixes",
+      "category": "development",
+      "keywords": ["test", "fix", "patch", "debug", "failing", "unit"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/test-fixing",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/test-fixing/SKILL.md"
+    },
+    {
+      "name": "computer-forensics",
+      "description": "Digital forensics analysis and investigation techniques",
+      "category": "security",
+      "keywords": ["forensics", "digital", "investigation", "analysis", "security"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/computer-forensics",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/computer-forensics/SKILL.md"
+    },
+    {
+      "name": "file-deletion",
+      "description": "Secure file deletion and data sanitization methods",
+      "category": "security",
+      "keywords": ["delete", "secure", "sanitize", "wipe", "shred"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-deletion",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/file-deletion/SKILL.md"
+    },
+    {
+      "name": "metadata-extraction",
+      "description": "Extract and analyze file metadata for forensic purposes",
+      "category": "data-analysis",
+      "keywords": ["metadata", "extract", "analyze", "exif", "file", "info"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/metadata-extraction",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/metadata-extraction/SKILL.md"
+    },
+    {
+      "name": "threat-hunting-with-sigma-rules",
+      "description": "Use Sigma detection rules to hunt for threats and analyze security events",
+      "category": "security",
+      "keywords": ["sigma", "threat", "hunting", "security", "detection", "siem"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/threat-hunting-with-sigma-rules",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/threat-hunting-with-sigma-rules/SKILL.md"
+    },
+    {
+      "name": "content-research-writer",
+      "description": "Research, outline, draft, and refine content while maintaining your unique voice and style",
+      "category": "communication",
+      "keywords": ["content", "research", "write", "draft", "outline", "blog"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/content-research-writer/SKILL.md"
+    },
+    {
+      "name": "image-enhancer",
+      "description": "Enhance and improve image quality using AI techniques",
+      "category": "creative",
+      "keywords": ["image", "enhance", "quality", "upscale", "improve", "photo"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/image-enhancer/SKILL.md"
+    },
+    {
+      "name": "connect-apps",
+      "description": "Connect Claude to 500+ apps using Composio - send emails, create issues, post to Slack",
+      "category": "productivity",
+      "keywords": ["connect", "apps", "integration", "composio", "slack", "email", "api"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect-apps",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect-apps/SKILL.md"
+    },
+    {
+      "name": "markdown-to-epub",
+      "description": "Converts markdown documents and chat summaries into professional EPUB ebook files",
+      "category": "document-processing",
+      "keywords": ["markdown", "epub", "ebook", "convert", "document"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/markdown-to-epub",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/markdown-to-epub/SKILL.md"
+    },
+    {
+      "name": "csv-data-summarizer",
+      "description": "Automatically analyzes CSVs: columns, distributions, missing data, correlations",
+      "category": "data-analysis",
+      "keywords": ["csv", "data", "analyze", "summarize", "statistics", "columns"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/csv-data-summarizer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/csv-data-summarizer/SKILL.md"
+    },
+    {
+      "name": "webapp-testing",
+      "description": "Toolkit for interacting with and testing local web applications using Playwright",
+      "category": "development",
+      "keywords": ["webapp", "testing", "playwright", "browser", "automation", "e2e"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webapp-testing",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/webapp-testing/SKILL.md"
+    },
+    {
+      "name": "secret-management",
+      "description": "Secure environment variable management ensuring secrets never appear in logs or commits",
+      "category": "security",
+      "keywords": ["secret", "env", "environment", "variable", "secure", "credential"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/secret-management",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/secret-management/SKILL.md"
+    },
+    {
+      "name": "linear-manager",
+      "description": "Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL",
+      "category": "productivity",
+      "keywords": ["linear", "issue", "project", "tracking", "task", "management"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/linear-manager",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/linear-manager/SKILL.md"
+    },
+    {
+      "name": "postgres-query",
+      "description": "Execute safe read-only SQL queries against PostgreSQL databases",
+      "category": "data-analysis",
+      "keywords": ["postgres", "sql", "query", "database", "postgresql"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/postgres-query",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/postgres-query/SKILL.md"
+    },
+    {
+      "name": "gemini-deep-research",
+      "description": "Execute autonomous multi-step research using Gemini Deep Research Agent",
+      "category": "research",
+      "keywords": ["gemini", "research", "deep", "analysis", "market", "competitive"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/gemini-deep-research",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/gemini-deep-research/SKILL.md"
+    },
+    {
+      "name": "health-assistant",
+      "description": "Comprehensive health assistant to analyze medical reports and track health metrics",
+      "category": "productivity",
+      "keywords": ["health", "medical", "wellness", "tracking", "metrics", "report"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/health-assistant",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/health-assistant/SKILL.md"
+    },
+    {
+      "name": "epub-parser",
+      "description": "Parse and analyze EPUB ebook contents for querying or summarizing",
+      "category": "document-processing",
+      "keywords": ["epub", "ebook", "parse", "read", "extract", "book"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/epub-parser",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/epub-parser/SKILL.md"
+    },
+    {
+      "name": "imagen",
+      "description": "Generate images using Google Gemini's image generation API",
+      "category": "creative",
+      "keywords": ["image", "generate", "gemini", "ai", "visual", "mockup"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/imagen",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/imagen/SKILL.md"
+    },
+    {
+      "name": "plugin-authoring",
+      "description": "Template and helper to build new Claude plugins and skills",
+      "category": "development",
+      "keywords": ["plugin", "skill", "template", "create", "author", "build"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/plugin-authoring",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/plugin-authoring/SKILL.md"
+    },
+    {
+      "name": "scientific-computing",
+      "description": "125+ scientific skills for bioinformatics, cheminformatics, clinical research, and ML",
+      "category": "research",
+      "keywords": ["science", "bioinformatics", "chemistry", "clinical", "research", "ml"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/scientific-computing",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/scientific-computing/SKILL.md"
+    },
+    {
+      "name": "materials-science",
+      "description": "Agent skills for computational materials science: simulations, mesh generation, optimization",
+      "category": "research",
+      "keywords": ["materials", "science", "simulation", "mesh", "physics"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/materials-science",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/materials-science/SKILL.md"
+    },
+    {
+      "name": "docx",
+      "description": "Create, edit, analyze Word docs with tracked changes, comments, formatting",
+      "category": "document-processing",
+      "keywords": ["docx", "word", "document", "edit", "track", "changes"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/docx",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/docx/SKILL.md"
+    },
+    {
+      "name": "pdf",
+      "description": "Extract text, tables, metadata, merge & annotate PDFs",
+      "category": "document-processing",
+      "keywords": ["pdf", "extract", "merge", "annotate", "table", "text"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/pdf",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pdf/SKILL.md"
+    },
+    {
+      "name": "pptx",
+      "description": "Read, generate, and adjust slides, layouts, templates",
+      "category": "document-processing",
+      "keywords": ["pptx", "powerpoint", "slides", "presentation", "template"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/pptx",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pptx/SKILL.md"
+    },
+    {
+      "name": "xlsx",
+      "description": "Spreadsheet manipulation: formulas, charts, data transformations",
+      "category": "document-processing",
+      "keywords": ["xlsx", "excel", "spreadsheet", "formula", "chart", "data"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/xlsx",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/xlsx/SKILL.md"
+    },
+    {
+      "name": "artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts",
+      "category": "development",
+      "keywords": ["artifacts", "html", "react", "tailwind", "frontend", "components"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/artifacts-builder/SKILL.md"
+    },
+    {
+      "name": "skill-creator",
+      "description": "Template and helper to build new Claude skills",
+      "category": "development",
+      "keywords": ["skill", "create", "template", "build", "author"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/skill-creator/SKILL.md"
+    },
+    {
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP servers that enable LLMs to interact with external services",
+      "category": "development",
+      "keywords": ["mcp", "server", "protocol", "api", "integration", "tool"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/mcp-builder/SKILL.md"
+    },
+    {
+      "name": "calendar-manager",
+      "description": "Manage calendar events, scheduling, and reminders",
+      "category": "productivity",
+      "keywords": ["calendar", "schedule", "event", "reminder", "meeting", "appointment"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/calendar-manager",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/calendar-manager/SKILL.md"
+    },
+    {
+      "name": "email-writer",
+      "description": "Draft and refine professional emails with proper tone and formatting",
+      "category": "communication",
+      "keywords": ["email", "write", "draft", "professional", "communication"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/email-writer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/email-writer/SKILL.md"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Perform thorough code reviews with actionable feedback",
+      "category": "development",
+      "keywords": ["code", "review", "feedback", "quality", "pr", "pull", "request"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/code-reviewer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/code-reviewer/SKILL.md"
+    },
+    {
+      "name": "api-tester",
+      "description": "Test and validate API endpoints with comprehensive test cases",
+      "category": "development",
+      "keywords": ["api", "test", "endpoint", "rest", "validation", "http"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/api-tester",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/api-tester/SKILL.md"
+    },
+    {
+      "name": "data-visualizer",
+      "description": "Create charts, graphs, and visualizations from data",
+      "category": "data-analysis",
+      "keywords": ["data", "visualization", "chart", "graph", "plot", "dashboard"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/data-visualizer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/data-visualizer/SKILL.md"
+    },
+    {
+      "name": "meeting-notes",
+      "description": "Capture, organize, and summarize meeting notes with action items",
+      "category": "productivity",
+      "keywords": ["meeting", "notes", "summary", "action", "items", "minutes"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-notes",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/meeting-notes/SKILL.md"
+    },
+    {
+      "name": "project-planner",
+      "description": "Plan and organize projects with milestones, tasks, and dependencies",
+      "category": "productivity",
+      "keywords": ["project", "plan", "milestone", "task", "dependency", "gantt"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/project-planner",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/project-planner/SKILL.md"
+    },
+    {
+      "name": "knowledge-base",
+      "description": "Build and query a personal or team knowledge base",
+      "category": "productivity",
+      "keywords": ["knowledge", "base", "wiki", "documentation", "search", "query"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/knowledge-base",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/knowledge-base/SKILL.md"
+    },
+    {
+      "name": "resume-builder",
+      "description": "Create and optimize professional resumes and CVs",
+      "category": "document-processing",
+      "keywords": ["resume", "cv", "career", "job", "professional", "build"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/resume-builder",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/resume-builder/SKILL.md"
+    },
+    {
+      "name": "documentation-writer",
+      "description": "Write clear technical documentation, READMEs, and guides",
+      "category": "communication",
+      "keywords": ["documentation", "readme", "guide", "technical", "writing", "docs"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/documentation-writer",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/documentation-writer/SKILL.md"
+    },
+    {
+      "name": "sql-generator",
+      "description": "Generate SQL queries from natural language descriptions",
+      "category": "data-analysis",
+      "keywords": ["sql", "query", "database", "generate", "natural", "language"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/sql-generator",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/sql-generator/SKILL.md"
+    },
+    {
+      "name": "regex-builder",
+      "description": "Build and test regular expressions with explanations",
+      "category": "development",
+      "keywords": ["regex", "regular", "expression", "pattern", "match", "test"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/regex-builder",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/regex-builder/SKILL.md"
+    },
+    {
+      "name": "shell-commander",
+      "description": "Generate and explain shell commands for various tasks",
+      "category": "development",
+      "keywords": ["shell", "bash", "command", "terminal", "cli", "script"],
+      "source": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/shell-commander",
+      "skill_md_url": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/shell-commander/SKILL.md"
+    }
+  ]
+}
